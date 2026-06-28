@@ -1,6 +1,6 @@
-# Factor Models: What I Learned by Rebuilding the Regressions
+# Factor Models: What Clicked When I Built Them from Scratch
 
-Starting with asset pricing models, I read Fama and French (1992), sharpe (1964), and I wanted to have an overview of how asset pricing models evolved. But then I had many questions. The equations are clean in theory, but in practice I was lost on what exactly these parameters are and how they are calculated. So I stopped reading and started coding. This article is a summary of what I learned, and the [GitHub repo](https://github.com/ParimahSafarian/factor-lab) is where I rebuilt the regressions and verified my understanding.
+Starting with asset pricing models, I read Fama and French (1992), Sharpe (1964), and I wanted to have an overview of how asset pricing models evolved. But then I had many questions. The equations are clean in theory, but in practice I was lost on what exactly these parameters are and how they are calculated. So I stopped reading and started coding. This article is a summary of what I learned, and the [GitHub repo](https://github.com/ParimahSafarian/factor-lab) is where I rebuilt the regressions and verified my understanding.
 
 
 ## The overview
