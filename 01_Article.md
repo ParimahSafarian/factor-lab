@@ -1,7 +1,7 @@
 # Factor Models: What Clicked When I Built Them from Scratch
 
-Starting with asset pricing models, I read Fama and French (1992), Sharpe (1964), and I wanted to have an overview of how asset pricing models evolved. But then I had many questions. The equations are clean in theory, but in practice I was lost on what exactly these parameters are and how they are calculated. So I stopped reading and started coding. This article is a summary of what I learned, and the [GitHub repo](https://github.com/ParimahSafarian/factor-lab) is where I rebuilt the regressions and verified my understanding.
-
+I started reading papers on asset pricing models to get an overview of how the models evolved. Factor investing is one of the most well-documented ideas in finance. The equations are clean in theory, but many questions arise once you start implementing them yourself. How is a factor exactly calculated? If both sides of the regression are returns, what does the regression actually mean? And if this all describes the past, what practical use does it have for future investment decisions? 
+If you're interested in implementation details, here is the code and a short article answering the questions I faced!
 
 ## The overview
 
